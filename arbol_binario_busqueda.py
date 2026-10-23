@@ -157,7 +157,7 @@ class AplicacionABB:
     COLOR_LINEA = "#546E7A"      # líneas entre nodos
     COLOR_BORDE = "#0D47A1"
 
-    EJEMPLO = "50, 30, 70, 20, 40, 60, 80"  # el del enunciado
+    EJEMPLO = "30, 80, 60, 20, 100, 50, 10, 40, 90, 70"  
 
     def __init__(self, ventana):
         self.ventana = ventana
